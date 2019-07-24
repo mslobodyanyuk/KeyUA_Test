@@ -157,7 +157,7 @@ Useful links:
 
 [Installing Symfony 4](https://www.youtube.com/watch?v=oeKHlBcqTVw)
 
-[How to install symfony with composer?](http://qaru.site/questions/5733370/how-to-install-symfony-with-composer)
+[How to install Symfony with composer?](http://qaru.site/questions/5733370/how-to-install-symfony-with-composer)
 
 [Installing & Setting up the Symfony Framework](https://symfony.com/doc/current/setup.html)
 
